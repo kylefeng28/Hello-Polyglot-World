@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-Hello World in many languages (computer and human)
+Hello World in many languages (programming and human)
