@@ -1,0 +1,18 @@
+4 00:0000 -  -  -  -  .org	$9D93
+5 00:9D93 BB 6D -  -  .db	t2ByteTok, tAsmCmp
+6 00:9D95 EF 40 45 -  	b_call(_ClrLCDFull)
+7 00:9D98 21 00 00 -  	ld hl, 0
+8 00:9D9B 22 4C 84 -  	ld (CurCol), hl
+9 00:9D9E 21 A8 9D -  	ld hl, msg
+10 00:9DA1 EF 0A 45 -  	b_call(_PutS)
+11 00:9DA4 EF 2E 45 -  	b_call(_NewLine)
+12 00:9DA7 C9 -  -  -  	ret
+13 00:9DA8 -  -  -  -  msg:
+14 00:9DA8 48 65 6C 6C 
+           6F 20 77 6F 
+           72 6C 64 21 	.db "Hello world!"
+15 00:9DB4 -  -  -  -  .end
+16 00:9DB4 -  -  -  -  .end
+
+
+
