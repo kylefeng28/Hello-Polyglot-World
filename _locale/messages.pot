@@ -1,4 +1,7 @@
 # Hello Polyglot World
+# Copyright (C) 2015
+# This file is distributed under the same license as the main package.
+# Template by Kyle Feng <kylefeng28@gmail.com>, 2015.
 #
 #, fuzzy
 msgid ""
@@ -12,6 +15,5 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: v3.x/hello.py:1
 msgid "Hello, world!"
 msgstr ""

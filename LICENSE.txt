@@ -1,4 +1,4 @@
-Copyright (C) 2013  AeroFengBlade <AeroFengBlade@gmail.com>
+Copyright (C) 2015  Kyle Feng <kylefeng28@gmail.com>
 
 This software is distributed under the GNU General Public License, Version 3 (GPLv3)
 
