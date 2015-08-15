@@ -1,9 +1,7 @@
 using System;
-class Program
-{
-    public static void Main()
-    {
-        Console.WriteLine("Hello, world!");
+class Program {
+    public static void Main() {
+        Console.WriteLine(_("Hello, world!"));
         Console.ReadLine();
     }
 }

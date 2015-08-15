@@ -1,1 +1,1 @@
-Msgbox(64, "", "Hello, world!")
+Msgbox(64, "", _("Hello, world!"))

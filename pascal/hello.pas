@@ -1,3 +1,3 @@
 begin
-  WriteLn('Hello, world!');
+  WriteLn(_('Hello, world!'));
 end.

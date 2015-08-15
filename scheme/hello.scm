@@ -1,1 +1,1 @@
-(display "Hello, world!")
+(display (_ "Hello, world!"))

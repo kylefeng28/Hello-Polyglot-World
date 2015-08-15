@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(int argc, char *argv[], char *envp[]) {
-    cout << "Hello, world!" << endl;
+    cout << _("Hello, world!") << endl;
     return 0;
 }

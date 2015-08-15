@@ -2,7 +2,8 @@
 
 @implementation Hello
 - (void) sayHello {
-	NSLog(@"Hello, world!\n");
+	NSLog(_(@"Hello, world!"));
+	NSLog("\n");
 }
 @end
 
